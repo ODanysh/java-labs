@@ -3,6 +3,6 @@ package edu.ntudp.fit.danysh;
 
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hellow guys!");
+        System.out.println("Hello world!");
     }
 }
