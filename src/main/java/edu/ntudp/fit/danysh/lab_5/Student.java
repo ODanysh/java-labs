@@ -1,7 +1,6 @@
 package edu.ntudp.fit.danysh.lab_5;
 
 import java.time.LocalDate;
-import java.util.Objects;
 
 public class Student {
     public int id;
